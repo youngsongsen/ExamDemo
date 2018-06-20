@@ -10,6 +10,7 @@ public class OneTest {
     //Test foo111
     //123
     assertEquals("foo", one.foo());
+
   }
 
 }
