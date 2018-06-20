@@ -7,7 +7,7 @@ public class OneTest {
   @Test
   public void testFoo() throws Exception {
     One one = new One();
-    //Test foo
+    //Test foo111
     assertEquals("foo", one.foo());
   }
 
